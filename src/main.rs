@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Hello! Fellow world, Another Rust Dev is born");
 }
